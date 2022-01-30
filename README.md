@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-rina
+- 👋 Hi, I’m Katerina
 - 👀 I’m interested in programming and anything software related
 - 🌱 I’m currently learning software engineering at App Academy
 - 💞️ I’m looking to collaborate on Github
